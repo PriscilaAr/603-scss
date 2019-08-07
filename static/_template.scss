@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    display: grid;
+    grid-template-areas: 'navbar navbar navbar navbar'
+                         'header header header header'
+                         'aside aside aside aside'
+                         'footer footer footer footer';
+    grid-template-columns: 25vw 25vw 25vw 25vw;
+    grid-template-rows: 8vh 80vh 100vh 8vh;
+}

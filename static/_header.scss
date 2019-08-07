@@ -1,0 +1,17 @@
+header{
+    grid-area: header;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(imagens/microfone.jpg);
+    background-size: cover;
+    padding: 0 10vw 0 10vw;
+        p{
+            color: white;
+            font-size: 20pt;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+        }
+}
+       
